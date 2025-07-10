@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="Nikunj Bhattad Banner" width="100%" />
+
 # nikunjbhattad
 # 👋 Hi there, I'm Nikunj Bhattad!
 
