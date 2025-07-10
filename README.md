@@ -45,11 +45,11 @@ Here are a few cool projects I've worked on:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunjbhattad&show_icons=true&theme=radical" alt="Nikunj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neekunj-del&show_icons=true&theme=radical" alt="Nikunj's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjbhattad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neekunj-del&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjbhattad&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neekunj-del&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
