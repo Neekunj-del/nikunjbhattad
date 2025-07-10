@@ -1,4 +1,5 @@
-<img src="github-banner.png" alt="Nikunj Bhattad Banner" width="100%" />
+<img src="[Uploading ChatGPT Image Jul 10, 2025, 04_34_38 PM.png…]()
+" alt="Nikunj Bhattad Banner" width="100%" />
 
 # nikunjbhattad
 # 👋 Hi there, I'm Nikunj Bhattad!
